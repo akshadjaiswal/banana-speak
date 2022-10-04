@@ -84,3 +84,27 @@ text-align: center;
     margin:auto;
     margin-top: 3rem;;
 }
+/*footers*/
+
+.footer{
+    background-color: wheat;
+    padding:4rem 1rem  ;
+    text-align: center;
+    color: rgb(25, 6, 6);
+    
+  }
+  
+  .footer .link {
+    color: rgb(11, 1, 1);
+    text-decoration: none;
+  }
+  
+  .footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+  }
+  
+  .footer ul{
+    list-style: none;
+    padding-inline-start:0px;
+  }
